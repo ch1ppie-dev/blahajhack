@@ -43,7 +43,7 @@ public class GuiMainMenu extends GuiScreen implements GuiYesNoCallback
     private static final Logger logger = LogManager.getLogger();
     private static final Random RANDOM = new Random();
 
-    private static String[] messages = {"thanks to my owner (raine) for hvh optimizations", "100% of blahajhack users are submissive femboy bottoms :3", "do you ever want to get pinned to a bed with a hand over your mouth as you cutely moan and get topped?", "now with 999.9% more eternadox thighs!", "thanks to penguishere for helping with development and raine for topping my submissive femboy bussy :3", "Prolonged exposure to blahajhack can increase estrogen levels by 200%.", "cuddling my blahaj every night thinking of you :3", "good submissive femboys like me deserve headpats ;3", "stop it!!! i'm blushing~ >w<", "raine, never stop making me blush <3", "if you are reading this, there is an 80% chance that i want you to top me :3", "thanks to raine for kissing and cuddling me and making me blush and moan :3"};
+    private static String[] messages = {"wtf how did u compile this.."};
     String message;
 
     /** Counts the number of screen updates. */
